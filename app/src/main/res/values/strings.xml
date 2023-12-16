@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eva_1</string>
+    <string name="title_activity_pantalla_honorario">PantallaHonorario</string>
+    <string name="salario_neto_resultado">Salario Neto: %1$s</string>
+</resources>
